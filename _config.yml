@@ -28,3 +28,7 @@ callouts:
 
 mermaid:
   version: "10.2.2"
+
+header_pages:
+  - sections/Basic-Commands.md
+  - basic-commands/git-init.md
