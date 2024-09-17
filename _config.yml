@@ -1,6 +1,6 @@
 title: Git Workshop
 description: Using git to build software
-theme: just-the-docs
+theme: jekyll-theme-minimal
 
 url: https://briggstwitchell.github.io/vscode_workshop/Introduction
 
