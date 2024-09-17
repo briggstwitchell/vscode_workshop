@@ -2,7 +2,7 @@
 title: git init
 layout: default
 parent: Basic Commands
-nav_order: 2
+nav_order: 1
 ---
 
 # Git init
